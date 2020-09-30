@@ -1,0 +1,16 @@
+#background {
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  margin: 100px;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.clock {
+  height: 100px;
+  width: 90%;
+}

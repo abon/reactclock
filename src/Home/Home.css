@@ -1,0 +1,16 @@
+.home {
+  border-radius: 50px;
+}
+
+.time {
+  height: 350px;
+  width: 800px;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  font-family: "Roboto Mono", monospace;
+  color: #0f3057;
+  font-size: 110px;
+}
