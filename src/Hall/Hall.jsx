@@ -8,7 +8,7 @@ function Hall() {
     let i = 0;
     function change() {
         var doc = document.getElementById("background");
-        var color = ["DEEPPINK", 'TOMATO', 'ORANGE', 'INDIGO', 'MEDIUMSPRINGGREEN', 'DARKGREEN', 'MEDIUMAQUAMARINE', 'DARKSLATEGRAY'];
+        var color = ['LIGHTSALMON', 'CRIMSON', 'TOMATO', 'ORANGE', 'GOLD', 'KHAKI', 'PALEGREEN', 'SEAGREEN', 'MEDIUMAQUAMARINE'];
         doc.style.backgroundColor = color[i];
         i = (i + 1) % color.length;
     }
